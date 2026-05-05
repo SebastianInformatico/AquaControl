@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">AquaControl</title>
+  <rect width="512" height="512" rx="104" fill="#007d8f"/>
+  <path d="M128 318c38 34 77 51 118 51 50 0 94-24 134-72" fill="none" stroke="#ffffff" stroke-width="34" stroke-linecap="round"/>
+  <path d="M139 253c33-74 72-111 117-111s84 37 117 111" fill="none" stroke="#d7f7fb" stroke-width="34" stroke-linecap="round"/>
+  <text x="256" y="292" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="700" text-anchor="middle">AC</text>
+</svg>
